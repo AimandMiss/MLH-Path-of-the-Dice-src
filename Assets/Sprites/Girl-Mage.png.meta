@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: 36a6230208aba354992a7570a928fdd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3506390244547779294
+    second: Girl-Mage_0
+  - first:
+      213: 250168568949704089
+    second: Girl-Mage_1
+  - first:
+      213: 6603547952189867829
+    second: Girl-Mage_2
+  - first:
+      213: 5830761102306989917
+    second: Girl-Mage_3
+  - first:
+      213: -1994307278552162960
+    second: Girl-Mage_4
+  - first:
+      213: -1436716519069952766
+    second: Girl-Mage_5
+  - first:
+      213: 3425129335242608234
+    second: Girl-Mage_6
+  - first:
+      213: -4843511824093212573
+    second: Girl-Mage_7
+  - first:
+      213: 5316405893437385413
+    second: Girl-Mage_8
+  - first:
+      213: -1137574947234339828
+    second: Girl-Mage_9
+  - first:
+      213: -2642845740205954494
+    second: Girl-Mage_10
+  - first:
+      213: -2018137912617857516
+    second: Girl-Mage_11
+  - first:
+      213: -404349452705011300
+    second: Girl-Mage_12
+  - first:
+      213: -8114675798332787968
+    second: Girl-Mage_13
+  - first:
+      213: -7763487774667531406
+    second: Girl-Mage_14
+  - first:
+      213: -5971604046267616323
+    second: Girl-Mage_15
+  - first:
+      213: -7580588297565817166
+    second: Girl-Mage_16
+  - first:
+      213: 1967945364240189347
+    second: Girl-Mage_17
+  - first:
+      213: 7967655992943842376
+    second: Girl-Mage_18
+  - first:
+      213: 4438056506546244267
+    second: Girl-Mage_19
+  - first:
+      213: -8772277238648381507
+    second: Girl-Mage_20
+  - first:
+      213: 1521462014235019248
+    second: Girl-Mage_21
+  - first:
+      213: -8243915810482058476
+    second: Girl-Mage_22
+  - first:
+      213: 6653280923015003703
+    second: Girl-Mage_23
+  - first:
+      213: 4012972107104697314
+    second: Girl-Mage_24
+  - first:
+      213: 6864011098401253456
+    second: Girl-Mage_25
+  - first:
+      213: 7349176743233317869
+    second: Girl-Mage_26
+  - first:
+      213: -5162028580829161748
+    second: Girl-Mage_27
+  - first:
+      213: -8981341634540865316
+    second: Girl-Mage_28
+  - first:
+      213: 3562770046497054102
+    second: Girl-Mage_29
+  - first:
+      213: -2617961703752540922
+    second: Girl-Mage_30
+  - first:
+      213: 1871440066897513440
+    second: Girl-Mage_31
+  - first:
+      213: -1113754506294479340
+    second: Girl-Mage_32
+  - first:
+      213: -2042741362247100860
+    second: Girl-Mage_0
+  - first:
+      213: 4926171105188589809
+    second: Girl-Mage_1
+  - first:
+      213: 1006038540273442292
+    second: Girl-Mage_2
+  - first:
+      213: -1221271275560688086
+    second: Girl-Mage_3
+  - first:
+      213: -354681598357784035
+    second: Girl-Mage_4
+  - first:
+      213: -6154127138013415287
+    second: Girl-Mage_5
+  - first:
+      213: -2369668137589467337
+    second: Girl-Mage_6
+  - first:
+      213: -6016734957436581803
+    second: Girl-Mage_7
+  - first:
+      213: -7618631728074412483
+    second: Girl-Mage_8
+  - first:
+      213: -1264123578684530480
+    second: Girl-Mage_9
+  - first:
+      213: -7407840547214915382
+    second: Girl-Mage_10
+  - first:
+      213: 6203661136184373737
+    second: Girl-Mage_11
+  - first:
+      213: 2397554878310285054
+    second: Girl-Mage_12
+  - first:
+      213: 7023345370867207744
+    second: Girl-Mage_13
+  - first:
+      213: 4188697724882602481
+    second: Girl-Mage_14
+  - first:
+      213: 6177287901779056838
+    second: Girl-Mage_15
+  - first:
+      213: -9134099512961125831
+    second: Girl-Mage_16
+  - first:
+      213: 6575487917497109499
+    second: Girl-Mage_17
+  - first:
+      213: 4364308916194198081
+    second: Girl-Mage_18
+  - first:
+      213: 3485319588506962722
+    second: Girl-Mage_19
+  - first:
+      213: -4689697947233226730
+    second: Girl-Mage_20
+  - first:
+      213: -5887716415846890183
+    second: Girl-Mage_21
+  - first:
+      213: 27192701956391733
+    second: Girl-Mage_22
+  - first:
+      213: -6490611909852899614
+    second: Girl-Mage_23
+  - first:
+      213: -5498681196557143563
+    second: Girl-Mage_33
+  - first:
+      213: 2071495116646884126
+    second: Girl-Mage_34
+  - first:
+      213: -9041712864292294453
+    second: Girl-Mage_35
+  - first:
+      213: 5763449446798489123
+    second: Girl-Mage_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Girl-Mage_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda5a2a895339a030800000000000000
+      internalID: 3506390244547779294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995073eecf6c87300800000000000000
+      internalID: 250168568949704089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 95
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537098b10e384ab50800000000000000
+      internalID: 6603547952189867829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d575c2174560be050800000000000000
+      internalID: 5830761102306989917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 83
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d1ce0b81cc254e0800000000000000
+      internalID: -1994307278552162960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 83
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20556ed10f1cf0ce0800000000000000
+      internalID: -1436716519069952766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ec7e8bbf0888f20800000000000000
+      internalID: 3425129335242608234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 71
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360158378a368ccb0800000000000000
+      internalID: -4843511824093212573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 71
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cae0281efaa7c940800000000000000
+      internalID: 5316405893437385413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04a6b4dc958630f0800000000000000
+      internalID: -1137574947234339828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 59
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aaeda3dc9b25bd0800000000000000
+      internalID: -2642845740205954494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 59
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e0aa2d2422ef3e0800000000000000
+      internalID: -2018137912617857516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99e46aa056736af0800000000000000
+      internalID: -404349452705011300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 47
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0033ae4da51e26f80800000000000000
+      internalID: -8114675798332787968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 47
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b9adc600d824490800000000000000
+      internalID: -7763487774667531406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3fee242c9902da0800000000000000
+      internalID: -5971604046267616323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 35
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b63b176b175cc690800000000000000
+      internalID: -7580588297565817166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7c9e4d1eb8f4b10800000000000000
+      internalID: 1967945364240189347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8441eef39ecc29e60800000000000000
+      internalID: 7967655992943842376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 23
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baacccdf0e4279d30800000000000000
+      internalID: 4438056506546244267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 23
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf5e17345c924680800000000000000
+      internalID: -8772277238648381507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f78ab114a15d1510800000000000000
+      internalID: 1521462014235019248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 11
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b8dfd9f3ab79d80800000000000000
+      internalID: -8243915810482058476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Girl-Mage_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 11
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e3137bfb3355c50800000000000000
+      internalID: 6653280923015003703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
